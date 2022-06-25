@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashley Johnson (@PapaRascal2020)
-- 👀 I’m a programmer
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on interesting projects
+- 👀 I’m a programmer of many things
+- 🌱 I’m always strive to be better tomorrow
+- 💞️ I’m looking to find the perfect work/life balance
 - 📫 How to reach me: ashley.gary.johnson@gmail.com
