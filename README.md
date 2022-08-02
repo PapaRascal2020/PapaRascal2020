@@ -6,7 +6,7 @@
 
 ### Facts about me
 - 🎮📱🖥️ I am programmer of many things
-- 🌱 I always strive to be better tomorrow
+- 🌱 I always strive for a better tomorrow
 - 🏃‍♂️ I am looking to find the perfect work/life balance
 
 ### How to reach me
