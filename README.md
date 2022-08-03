@@ -1,5 +1,5 @@
 ### Basic Info
-🏽 Hi, I’m Ashley Johnson (@PapaRascal2020)
+🙋 Hi, I’m Ashley Johnson (@PapaRascal2020)
 
 National Identity: 🇬🇧 🇪🇺 British-European
 
