@@ -10,7 +10,9 @@ Programming Languages:
 I speak English (Native) & German (Fluent)
 
 ### Facts about me
-🎮📱🖥️ I am programmer of many things
+🎮📱🖥️ I am a developer of many things
+
+📘 I have written a non-fiction memoir about my kids (<a href="https://www.lulu.com/shop/ashley-gary-johnson/tiny-warriors-lena-luca/hardcover/product-wjge8w.html?q=tiny+warriors&page=1&pageSize=4" open="_blank">Tiny Warriors: Luca & Lena</a>)
 
 🌱 I always strive for a better tomorrow
 
