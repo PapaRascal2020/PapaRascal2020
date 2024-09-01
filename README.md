@@ -45,6 +45,14 @@ I speak 🇬🇧 (Native) & 🇩🇪 (Fluent)
 
 ### How to reach me
 
-📧 social@ashleyjohnson.co.uk
+![Gmail](https://img.shields.io/badge/-social@ashleyjohnson.co.uk-05122A?style=flat&logo=gmail)
 
-My Website is http://www.ashleyjohnson.co.uk and is proudly powered by Laravel 9, Inertia.js and Vue3
+![Firefox](https://img.shields.io/badge/-http://www.ashleyjohnson.co.uk-05122A?style=flat&logo=Firefox)
+
+![Steam](https://img.shields.io/badge/-PapaKinRascal-05122A?style=flat&logo=steam)
+
+![EpicGames](https://img.shields.io/badge/-PapaKinRascal-05122A?style=flat&logo=epicgames)
+
+![Discord](https://img.shields.io/badge/-paparascal2020-05122A?style=flat&logo=discord)
+
+
