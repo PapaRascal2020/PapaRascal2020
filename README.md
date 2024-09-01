@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mkredzel&label=Profile+Views" />
+    <br>
+    <img src="https://img.shields.io/github/followers/mkredzel?style=flat&label=Followers&color=blue" />
+</p>
+
 ### Basic Info
 🙋 Hi, I’m Ashley Johnson (@PapaRascal2020)
 
