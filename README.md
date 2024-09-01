@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=PapaRascal2020&label=Profile+Views" />
-</p>
-
 ### Basic Info
 🙋 Hi, I’m Ashley Johnson (@PapaRascal2020)
 
