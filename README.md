@@ -55,4 +55,5 @@ I speak 🇬🇧 (Native) & 🇩🇪 (Fluent)
 
 ![Discord](https://img.shields.io/badge/-paparascal2020-05122A?style=flat&logo=discord)
 
+![](https://komarev.com/ghpvc/?username=paparascal2020&color=green&base=1456)
 
