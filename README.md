@@ -43,6 +43,10 @@ I speak 🇬🇧 (Native) & 🇩🇪 (Fluent)
 ![Unity3D](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
 ![C-Sharp](https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=c#)
 
+### My daily.dev card:
+
+<a href="https://app.daily.dev/ashleyjohnson"><img src="https://api.daily.dev/devcards/v2/d08i94oxei6to8J0FqFKy.png?type=wide&r=dum" width="652" alt="Ashley Johnson's Dev Card"/></a>
+
 ### How to reach me
 
 ![Gmail](https://img.shields.io/badge/-social@ashleyjohnson.co.uk-05122A?style=flat&logo=gmail)
